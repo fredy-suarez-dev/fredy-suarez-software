@@ -15,11 +15,10 @@ Me apasiona construir soluciones escalables y eficientes en el lado del servidor
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-![Mis Estadísticas](https://vercel.app)
-
-![Lenguajes más usados](https://vercel.app)
+### 🛠️ Tecnologías
+![Java](https://shields.io)
+![MySQL](https://shields.io)
+![Docker](https://shields.io)
 
 ---
 
