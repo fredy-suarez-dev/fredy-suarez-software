@@ -34,6 +34,14 @@ Me apasiona construir soluciones escalables y eficientes en el lado del servidor
 
 ---
 
+🚀 Mi Camino de Aprendizaje (Roadmap)
+Actualmente estoy evolucionando un proyecto de **Gestión de Usuarios** para demostrar
+diferentes niveles de madurez técnica:
+- **Nivel 1:** Arquitectura Hexagonal con Java Puro (Lógica de negocio sólida).
+- **Nivel 2:** Implementación de Maven (Gestión profesional de dependencias).
+- **Nivel 3:** Transformación a API REST con Spring Boot 3 y persistencia real.
+
+---
 *"El código limpio siempre parece que fue escrito por alguien a quien le importa."*
 
 
