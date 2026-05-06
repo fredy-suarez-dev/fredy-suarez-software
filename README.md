@@ -17,13 +17,13 @@ Me apasiona construir soluciones escalables y eficientes en el lado del servidor
 
 ### 🛠️ Tecnologías
 
-![Java](https://shields.io)
-![Spring](https://shields.io)
-![MySQL](https://shields.io)
-![SQL Server](https://shields.io)
-![Oracle](https://shields.io)
-![Docker](https://shields.io)
-![Git](https://shields.io)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/:badgeContent)
 
 ---
 
