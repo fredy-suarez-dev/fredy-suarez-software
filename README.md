@@ -1,16 +1,35 @@
-## Hi there 👋
+# ¡Hola! Mi nombre es Fredy Suarez 👋
 
-<!--
-**fredy-suarez-dev/fredy-suarez-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Backend Developer | Java Enthusiast 🚀
 
-Here are some ideas to get you started:
+Me apasiona construir soluciones escalables y eficientes en el lado del servidor. Actualmente me enfoco en el ecosistema de Java para crear APIs robustas y arquitecturas limpias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Mi Stack Tecnológico
+
+- **Lenguajes:** Java (8, 11, 17+)
+- **Arquitectura:** Hexagonal, Patrones de Diseño (SOLID)
+- **Bases de Datos:** MySQL, SQLServer, Oracle
+- **Herramientas:** Git, Docker
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+![Mis Estadísticas](https://vercel.app)
+
+![Lenguajes más usados](https://vercel.app)
+
+---
+
+### 📫 Contacto
+
+- **LinkedIn:** [linkedin.com/in/fredy-suarez-dev](https://www.linkedin.com/in/fredy-suarez-dev/)
+- **Email:** fredysuarez.dev@gmail.com
+
+---
+
+*"El código limpio siempre parece que fue escrito por alguien a quien le importa."*
+
+
