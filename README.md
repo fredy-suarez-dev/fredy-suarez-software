@@ -20,7 +20,7 @@ Me apasiona construir soluciones escalables y eficientes en el lado del servidor
 ![Java](https://shields.io)
 ![Spring](https://shields.io)
 ![MySQL](https://shields.io)
-![Microsoft SQL Server](https://shields.io)
+![SQL Server](https://shields.io)
 ![Oracle](https://shields.io)
 ![Docker](https://shields.io)
 ![Git](https://shields.io)
