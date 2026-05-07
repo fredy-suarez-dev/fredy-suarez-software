@@ -23,7 +23,7 @@ Me apasiona construir soluciones escalables y eficientes en el lado del servidor
 ![SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=mssqlserver-white&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge)
-
+![GitHub](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge)
 ---
 
 ### 📫 Contacto
