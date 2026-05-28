@@ -41,6 +41,21 @@ diferentes niveles de madurez técnica:
 - **Nivel 3:** Transformación a API REST con Spring Boot 3 y persistencia real.
 
 ---
+
+### 🚀 Evolución del Proyecto: Gestión de Usuarios
+
+
+| Característica / Nivel | Nivel 1: Java Puro ☕ | Nivel 2: Maven 📦 | Nivel 3: Spring Boot 3 🌱 |
+| :--- | :--- | :--- | :--- |
+| **Repositorio** | `hexagonal` | `hexagonal-maven` | `hexagonal-spring-boot` |
+| **Arquitectura** | Hexagonal estricta | Hexagonal estricta | Hexagonal adaptada a Framework |
+| **Gestión de Dependencias** | Manual (Sin herramientas) | Maven (`pom.xml`) | Maven + Spring Boot Starters |
+| **Interfaz de Usuario / Entrada** | Consola / Pruebas unitarias | Consola / Pruebas unitarias | API REST (Controladores HTTP) |
+| **Persistencia (Datos)** | En Memoria (Listas/Mapas) | En Memoria (Listas/Mapas) | Base de Datos Real (JPA / Hibernate) |
+| **Servidor de Aplicaciones** | No requiere | No requiere | Servidor embebido (Tomcat) |
+
+---
+
 *"El código limpio siempre parece que fue escrito por alguien a quien le importa."*
 
 
