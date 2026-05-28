@@ -48,6 +48,7 @@ diferentes niveles de madurez técnica:
 | Característica / Nivel | Nivel 1: Java Puro ☕ | Nivel 2: Maven 📦 | Nivel 3: Spring Boot 3 🌱 |
 | :--- | :--- | :--- | :--- |
 | **Repositorio** | `hexagonal` | `hexagonal-maven` | `hexagonal-spring-boot` |
+| **Repositorio** | [`hexagonal`](https://github.com/fredy-suarez-dev/hexagonal) | [`hexagonal-maven`](https://github.com/fredy-suarez-dev/hexagonal-maven) | [`hexagonal-spring-boot`](https://github.com/fredy-suarez-dev/hexagonal-spring-boot) |
 | **Arquitectura** | Hexagonal estricta | Hexagonal estricta | Hexagonal adaptada a Framework |
 | **Gestión de Dependencias** | Manual (Sin herramientas) | Maven (`pom.xml`) | Maven + Spring Boot Starters |
 | **Interfaz de Usuario / Entrada** | Consola / Pruebas unitarias | Consola / Pruebas unitarias | API REST (Controladores HTTP) |
