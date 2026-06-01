@@ -1,3 +1,16 @@
+## 🏗️ Filosofía de Desarrollo & Arquitectura
+
+En mis desarrollos backend con **Java y Spring Boot**, priorizo la mantenibilidad, la resiliencia y el desacoplamiento de la lógica de negocio. Por ello, aplico **Arquitectura Hexagonal (Puertos y Adaptadores)** y principios **SOLID**.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/fredy-suarez-software/hexagonal/master/src/img/arquitectura_hexagonal.png" alt="Arquitectura Hexagonal" width="650"/>
+</p>
+
+### 🔍 ¿Cómo estructuro mis proyectos?
+*   **Dominio (Core):** Contiene las entidades de negocio y las reglas más puras de la aplicación, totalmente aisladas de frameworks externos.
+*   **Puertos (Interfaces):** Definen el contrato de comunicación (qué operaciones se pueden hacer), tanto para la entrada de datos como para la salida hacia servicios externos.
+*   **Adaptadores (Infraestructura):** Implementaciones tecnológicas concretas (controladores REST de Spring, persistencia con JPA/Hibernate en MySQL/Oracle, mensajería, etc.).
+
 ### Backend Developer | Java Enthusiast 🚀
 
 Me apasiona construir soluciones escalables y eficientes en el lado del servidor. Actualmente me enfoco en el ecosistema de Java para crear APIs robustas y arquitecturas limpias.
