@@ -28,8 +28,7 @@ Me apasiona construir soluciones escalables y eficientes en el lado del servidor
 
 ### 📫 Contacto
 
-- **LinkedIn:** [linkedin.com/in/fredy-suarez-dev](https://www.linkedin.com/in/fredy-suarez-dev/)
-- **Email:** fredysuarez.dev@gmail.com
+- **Email:** fredysuarez.software@gmail.com
 
 ---
 
@@ -55,7 +54,3 @@ diferentes niveles de madurez técnica:
 | **Servidor de Aplicaciones** | No requiere | No requiere | Servidor embebido (Tomcat) |
 
 ---
-
-*"El código limpio siempre parece que fue escrito por alguien a quien le importa."*
-
-
