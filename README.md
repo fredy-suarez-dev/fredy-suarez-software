@@ -1,4 +1,4 @@
-# ¡Hola! Mi nombre es Fredy Suarez 👋
+# ¡Hola! Mi nombre es Fredy Suarez 
 
 ### Backend Developer | Java Enthusiast 🚀
 
