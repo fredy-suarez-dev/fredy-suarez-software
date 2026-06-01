@@ -1,5 +1,3 @@
-# ¡Hola! Mi nombre es Fredy Suarez 
-
 ### Backend Developer | Java Enthusiast 🚀
 
 Me apasiona construir soluciones escalables y eficientes en el lado del servidor. Actualmente me enfoco en el ecosistema de Java para crear APIs robustas y arquitecturas limpias.
